@@ -1,0 +1,7 @@
+{
+  "name": "GrainScope Pro",
+  "description": "Professional webcam signal processing and denoising utility.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
